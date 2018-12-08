@@ -23,15 +23,15 @@ Tips for picking a motherboard for your computer.
 A Motherboard acts as a central hub of sorts.  It's main purpose is to manage all of the other subsystems within the computer. It controls communication throughout the system and it also distributes power to various other systems.  
 _____
 ### Components of a Motherboard
-* [Processor Socket](Processor Socket)
-* [Memory Slots](Memory Slots)
-* [Video Card Slot](Video Card Slot)
-* [Expansion Slots](Expansion Slots)
-* [IDE/SATA Ports](IDE/SATA Ports)
-* [BIOS Chip](BIOS Chip)
-* [Northbridge/Southbridge](Northbridge/Southbridge)
-* [Front Panel Connectors](Front Panel Connectors)
-* [Rear Connectors](Rear Connectors)
+* Processor Socket
+* Memory Slots
+* Video Card Slot
+* Expansion Slots
+* IDE/SATA Ports
+* BIOS Chip
+* Northbridge/Southbridge
+* Front Panel Connectors
+* Rear Connectors
 ---
 
 ### Processor Socket
