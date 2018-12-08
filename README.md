@@ -30,3 +30,9 @@ _____
 * [Front Panel Connectors](Front Panel Connectors)
 * [Rear Connectors](Rear Connectors)
 ---
+<Processor Socket="Processor Socket">
+### Processor Socket
+</a>
+
+The purpose of the Processor Socket or "CPU socket" is to create a connection between the Motherboard and microprocessor.  It allows for easy swapping of CPU without having to do any soldering(depending on your system).
+---
